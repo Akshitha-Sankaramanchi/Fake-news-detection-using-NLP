@@ -4,6 +4,13 @@ The Fake News Detection System presented in this project harnesses natural langu
 the digital age.
 # INTRODUCTION
 In Today's world, anybody can post the content over  the  internet.  Unfortunately,  counterfeit news gathers a lot of consideration over the web, particularly  via  web-based  networking  media. Individuals get misdirected and don't reconsider before  flowing  such  mis-educational  pieces  to the  most  distant part  of the  arrangement.  Such type  of  activities  are  not  good  for  the  society where  some  rumors  or vague  news evaporates evaporates the  negative  thought  among  the  people  or specific  category  of  people. Fake news detection is made to stop the rumors that  are  being  spread  through  the  various platforms  whether  it  be  social  media  or messaging  platforms,  this  is  done  to  stop spreading  fake  news  which  leads  to  activities like mob lynching, this has been a  great reason motivating us to work on this project. We have been continuously seeing  various  news of mob lynching  that  leads  to  the  murder  of  an individual;  fake  news  detection  works  on  the objective  of  detecting  this  fake  news  and stopping  activities  like  this  thereby  protecting the  society  from  these  unwanted  acts  of violence.
+# EXPERIMENTAL ANALYSIS
+In our experimental analysis fake news detection, we employed a variety of algorithms including Decision Tree, Random Forest, Logistic Regression and Multinomial NB, Passive Aggressive classifier. The objective is to detect the fake news that will be able to predict or classify whether news is real or fake. After preprocessing the data by cleaning, encoding, and splitting into training and testing sets, we trained each model and evaluated its predictive performance using accuracy as the primary metric. Multinomial NB, Decision Tree, Random forest, Passive aggressive Classifier, Logistic Regression showed an accuracy of 94%, 99.6%,99.78%, 99.71, 99.2% respectively.
+# CONCLUSION
+Random Forest has demonstrated its effectiveness in detecting fake news by leveraging its ensemble learning approach to achieve high accuracy. This technique builds multiple decision trees and combines their outputs to produce a final prediction, which enhances the model's ability to generalize well across different datasets. By analyzing numerous features, such as word frequencies and contextual relationships, Random Forest effectively distinguishes between fake and real news. Its robustness to noisy data and capability to handle complex patterns contribute to its superior performance in fake news detection, yielding some of the highest accuracy rates among classifiers.
+
+
+
 
 
 
