@@ -2,7 +2,9 @@
 # ABSTRACT
 The Fake News Detection System presented in this project harnesses natural language processing and machine learning techniques to discern between authentic and deceptive news articles.Leveraging a diverse set of features such as linguistic patterns, sentiment analysis, and source credibility, the system employs supervised learning algorithms like logistic regression and decision trees to train a robust model. Unsupervised learning methods, including clustering algorithms, are also integrated for anomaly detection. The system operates in real-time, evaluating news content against a trained model to identify misinformation.This Fake News Detection System contributes to the ongoing efforts to combat misinformation and fortify the reliability of news sources in
 the digital age.
-INTRODUCTION
+# INTRODUCTION
+In Today's world, anybody can post the content over  the  internet.  Unfortunately,  counterfeit news gathers a lot of consideration over the web, particularly  via  web-based  networking  media. Individuals get misdirected and don't reconsider before  flowing  such  mis-educational  pieces  to the  most  distant part  of the  arrangement.  Such type  of  activities  are  not  good  for  the  society where  some  rumors  or vague  news evaporates evaporates the  negative  thought  among  the  people  or specific  category  of  people. Fake news detection is made to stop the rumors that  are  being  spread  through  the  various platforms  whether  it  be  social  media  or messaging  platforms,  this  is  done  to  stop spreading  fake  news  which  leads  to  activities like mob lynching, this has been a  great reason motivating us to work on this project. We have been continuously seeing  various  news of mob lynching  that  leads  to  the  murder  of  an individual;  fake  news  detection  works  on  the objective  of  detecting  this  fake  news  and stopping  activities  like  this  thereby  protecting the  society  from  these  unwanted  acts  of violence.
+
 
 
 
